@@ -16,8 +16,8 @@ Sou estudante de Sistemas de Informação pelo Centro Universitário Fametro, co
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-da-Silva-Alves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniel-da-Silva-Alves&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-da-Silva-Alves&theme=transparent&bg_color=000000&border_color=007ACC&show_icons=true&icon_color=007ACC&title_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniel-da-Silva-Alves&bg_color=000000&border_color=007ACC&title_color=FFFFFF&text_color=FFFFFF" alt="Top Langs"/>
 </p>
 
 ## 🛠️ Linguagens de Programação e Ferramentas
@@ -51,8 +51,43 @@ Veja uma coleção dos meus projetos em andamento e contribuições.
 
 ## 🏅 Certificações
 
-- **Programação Criativa: Arte Feita em Código** - Fundação Roberto Marinho
-- **Versionamento de Código com Git e GitHub** - Cognizant Bootcamp
+**Programação Criativa: Arte Feita em Código**  
+- **Instituição**: Fundação Roberto Marinho  
+- **Verificação Emitida**: Jul 2024  
+- **Código da Credencial**: 3507042257DC  
+- **Competências**: JavaScript, Processing, p5.js, Programação Criativa  
+- **Descrição**: Certificado de conclusão do curso focado em programação criativa utilizando JavaScript e a biblioteca p5.js para criar obras de arte interativas e visuais.
+
+**Projetos de Sistemas de TI**  
+- **Instituição**: Fundação Bradesco  
+- **Verificação Emitida**: Dez 2023  
+- **Código da Credencial**: A43F4885-159C-4403-9B16-505F62FAF782  
+- **Competências**: Gestão de Projetos, Levantamento de Requisitos, Metodologias Ágeis, Diagrama de Fluxo de Dados (DFD)  
+- **Descrição**: Certificado de conclusão do curso abordando planejamento e design na criação de sistemas de TI, incluindo metodologias e técnicas essenciais.
+
+**Montagem e Manutenção de Computadores**  
+- **Instituição**: CEPED CURSOS  
+- **Verificação Emitida**: Mar 2023  
+- **Descrição**: Certificado de conclusão do curso com foco em montagem, configuração e manutenção de computadores, incluindo diagnóstico e upgrades.
+
+**Formação Business Agility**  
+- **Instituição**: Alura  
+- **Verificação Emitida**: Jan 2023  
+- **Competências**: Organização de Equipes Ágeis, Gestão Ágil  
+- **Descrição**: Certificado de formação abordando estratégias para promover e gerenciar agilidade organizacional.
+
+**Organização de Equipes Ágeis**  
+- **Instituição**: Alura  
+- **Verificação Emitida**: Jan 2023  
+- **Competências**: Equipes Ágeis, Scrum, Metodologias Agile, Trabalho em Equipe, Kanban  
+- **Descrição**: Certificado de conclusão do curso sobre formação e gerenciamento de equipes ágeis, focando em metodologias como Scrum e Kanban.
+
+**Desenvolvimento Web com Python e Django**  
+- **Instituição**: DIO  
+- **Verificação Emitida**: Out 2022  
+- **Código da Credencial**: E3ED0A55  
+- **Competências**: Django, Python  
+- **Descrição**: Certificado de formação em desenvolvimento web utilizando o framework Django, com projeto final de sistema CRUD.
 
 <p align="center">
   Obrigado por visitar meu perfil! Estou aberto a novas oportunidades e colaborações. Conecte-se comigo!
