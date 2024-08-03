@@ -1,11 +1,18 @@
 # Daniel da Silva Alves
 
 <p align="justify">
-Sou estudante de Sistemas de Informação pelo Centro Universitário Fametro, com foco no desenvolvimento web e na arquitetura de software. Atualmente, estou aprofundando meus conhecimentos em tecnologias modernas através do bootcamp Cognizant - Cloud com Java e Spring Boot. Estou constantemente buscando aprimorar minhas habilidades e me atualizar nas últimas tendências e práticas da indústria para oferecer soluções inovadoras e eficientes.
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsilvadeveloper)
-[![Instagram](https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.silva.dev/)
+  Sou estudante de Sistemas de Informação pelo Centro Universitário Fametro, com foco no desenvolvimento web e na arquitetura de software. Atualmente, estou aprofundando meus conhecimentos em tecnologias modernas através do bootcamp Cognizant - Cloud com Java e Spring Boot. Estou constantemente buscando aprimorar minhas habilidades e me atualizar nas últimas tendências e práticas da indústria para oferecer soluções inovadoras e eficientes.
 </p>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/danielsilvadeveloper">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/daniel.silva.dev/">
+    <img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 
 ## 📊 Estatísticas do GitHub
 
