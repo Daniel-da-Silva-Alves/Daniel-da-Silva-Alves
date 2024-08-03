@@ -1,11 +1,10 @@
 # Daniel da Silva Alves
-<p align="right">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsilvadeveloper)
-  [![Instagram](https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.silva.dev/)
-</p>
 
 <p align="justify">
 Sou estudante de Sistemas de Informação pelo Centro Universitário Fametro, com foco no desenvolvimento web e na arquitetura de software. Atualmente, estou aprofundando meus conhecimentos em tecnologias modernas através do bootcamp Cognizant - Cloud com Java e Spring Boot. Estou constantemente buscando aprimorar minhas habilidades e me atualizar nas últimas tendências e práticas da indústria para oferecer soluções inovadoras e eficientes.
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsilvadeveloper)
+[![Instagram](https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.silva.dev/)
 </p>
 
 ## 📊 Estatísticas do GitHub
@@ -32,7 +31,7 @@ Sou estudante de Sistemas de Informação pelo Centro Universitário Fametro, co
 **🚀 [Gerenciador de Cadastros - Projeto CNH Social](link_para_o_repositorio)**  
 Sistema para gerenciar candidatos ao projeto CNH Social, utilizando Python com Django e Bootstrap 5. O banco de dados utilizado para testes é o SQLite.
 
-**🌟 [Outros Projetos](link_para_o_repositorio_ou_portfolio)**  
+**🌟 [Outros Projetos e Estudos](https://github.com/Daniel-da-Silva-Alves?tab=repositories)**  
 Veja uma coleção dos meus projetos em andamento e contribuições.
 
 ## 🏆 Experiência
